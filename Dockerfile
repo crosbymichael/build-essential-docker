@@ -9,4 +9,5 @@ RUN apt-get update && apt-get install -y \
     cpp \
     libc6-dev \
     man-db \
-    autoconf
+    autoconf \
+    pkg-config
